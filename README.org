@@ -1,0 +1,29 @@
+#+title: Lateralus
+#+options: toc:2
+
+Lateralus is a lightweight utility mod for Minecraft Java's modern versions.
+
+* Usage
+
+** Prebuilt Binary
+A prebuilt jar file is provided through [[https://codeberg.org/jeushi/lateralus/releases][releases]]. Download a release and add it to whichever launcher you use.
+
+** Building from Source
+*** Dependancies
+Both of the following can be obtained from your distributions package manager, [[https://nixos.org/download/#nix-install-macos][Nix]] for OSX, or however you do that on W*ndows.
+- git
+- java jdk 21
+*** Cloning and Building
+#+begin_src bash
+  git clone https://codeberg.org/jeushi/lateralus.git
+  cd lateralus
+  ./gradlew build
+#+end_src
+
+
+* FAQ
+WIP
+
+* Credits
+- [[https://github.com/MeteorDevelopment][MeteorDevelopment]] for the [[https://github.com/MeteorDevelopment/orbit][Orbit Event Bus]].
+- [[https://projectlombok.org/][Lombok]] for making Java slightly more bareable.
