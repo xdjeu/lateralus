@@ -6,7 +6,7 @@ Lateralus is a lightweight utility mod for Minecraft Java's modern versions.
 * Usage
 
 ** Prebuilt Binary
-A prebuilt jar file is provided through [[https://codeberg.org/jeushi/lateralus/releases][releases]]. Download a release and add it to whichever launcher you use.
+A prebuilt jar file is provided through [[https://github.com/xdjeu/lateralus/releases][releases]]. Download a release and add it to whichever launcher you use.
 
 ** Building from Source
 *** Dependancies
