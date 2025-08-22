@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "lateralus.mixin",
+	"package": "lateralus.injection",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

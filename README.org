@@ -15,7 +15,7 @@ Both of the following can be obtained from your distributions package manager, [
 - java jdk 21
 *** Cloning and Building
 #+begin_src bash
-  git clone https://codeberg.org/jeushi/lateralus.git
+  git clone https://github.com/xdjeu/lateralus.git
   cd lateralus
   ./gradlew build
 #+end_src

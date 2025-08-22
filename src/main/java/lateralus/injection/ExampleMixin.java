@@ -1,4 +1,4 @@
-package lateralus.mixin;
+package lateralus.injection;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
